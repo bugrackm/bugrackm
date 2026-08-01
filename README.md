@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Xaden-son banner" width="100%" />
 </p>
 
-<h1 align="center">Xaden-son</h1>
+<h1 align="center">Xaden</h1>
 
 <p align="center">
   Computer Engineering student exploring agentic engineering, software, Linux, and cybersecurity.
