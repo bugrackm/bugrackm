@@ -30,11 +30,11 @@ I am learning how AI agents can work with tools, structured instructions, contex
 
 ### Software Development
 
-I am strengthening my fundamentals through practical projects and coursework, with experience across **C**, **Java**, **JavaScript**, Git, GitHub, and web-based development.
+I’m focused on strengthening my understanding of software fundamentals, system design, data systems, and the principles behind how reliable software is built and maintained.
 
 ### Linux
 
-I use **Zorin OS** as my main environment and continue improving my command-line habits, Bash knowledge, system understanding, and confidence working outside graphical interfaces.
+I’m exploring Linux to better understand what it makes possible, why it is such an important skill to learn, and how powerful and practical it can be for development, systems, automation, and everyday computing.
 
 ### Cybersecurity
 
